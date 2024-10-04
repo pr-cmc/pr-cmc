@@ -3,6 +3,8 @@
 
 <h2 align="center">C#, Java and Python developer from Russia</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr-cmc&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+
 - 👨‍💻 All of my projects are available here
 
 - 📫 How to reach me **dmhahaeff@gmail.com**
