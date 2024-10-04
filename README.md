@@ -34,8 +34,8 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pr-cmc&show_icons=true&locale=en"/>
  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr-cmc&" alt="peter-kimanzi" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr-cmc&"/>
 </p>
 
 <h3 align="left">Pinned repositories:</h3>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=mini-projects)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=mini-projects)](https://github.com/pr-cmc/bots)
