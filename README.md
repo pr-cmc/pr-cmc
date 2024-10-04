@@ -38,4 +38,4 @@
 </p>
 
 <h3 align="left">Pinned repositories:</h3>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=mini-projects)](https://github.com/pr-cmc/bots)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=bots)](https://github.com/pr-cmc/bots)
