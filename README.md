@@ -38,4 +38,4 @@
 </p>
 
 <h3 align="left">Pinned repositories:</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=bots" height="100" width="50">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=bots" height="500" width="250">
