@@ -3,6 +3,8 @@
 
 <h2 align="center">C#, Java and Python developer from Russia</h2>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr-cmc&label=Profile%20views&color=fc7005&style=flat"/> </p>
 
 - 👨‍💻 All of my projects are available here
