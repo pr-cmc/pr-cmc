@@ -2,6 +2,7 @@
 <h1 align="center">Hello, I'm PR</h1>
 
 <h2 align="center">C#, Java and Python developer from Russia</h2>
+<p>Started programming on September 30, 2023</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pr-cmc)](https://github.com/ryo-ma/pr-cmc/pr-cmc)
 
