@@ -3,7 +3,7 @@
 
 <h2 align="center">C#, Java and Python developer from Russia</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pr-cmc)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pr-cmc)](https://github.com/ryo-ma/pr-cmc/pr-cmc)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr-cmc&label=Profile%20views&color=fc7005&style=flat"/> </p>
 
@@ -36,3 +36,7 @@
  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr-cmc&" alt="peter-kimanzi" />
 </p>
+
+<h3 align="left">Pinned repositories:</h3>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pr-cmca&repo=bots)](https://github.com/pr-cmc/bots)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pr-cmca&repo=mini-projects)](https://github.com/pr-cmc/mini-projects)
