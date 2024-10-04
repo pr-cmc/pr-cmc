@@ -40,4 +40,5 @@
 <h3 align="left">Pinned repositories:</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=bots">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=mini-projects">
 </p>
