@@ -17,7 +17,7 @@
 <a href="https://t.me/pr_cmc" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="pr-cmc" height="50" width="50" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages and Frameworks:</h3>
 <p align="left">
 <a href="https://dotnet.microsoft.com/ru-ru/languages/csharp"><img aling="center" src="https://png.klev.club/uploads/posts/2024-05/png-klev-club-p511-p-c-png-13.png" height="50" width="55"></a><a href="https://www.java.com/ru/"><img aling="center" src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" height="60" width="50"></a><a href="https://www.python.org/"><img aling="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50" width="50"></a><a href="https://ru.wikipedia.org/wiki/HTML"><img aling="center" src="https://cdn.iconscout.com/icon/free/png-256/free-html-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-225995.png?f=webp&w=128" height="50" width="50"></a><a href="https://ru.wikipedia.org/wiki/CSS"><img aling="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" height="50" width="50"></a><a href="https://ru.wikipedia.org/wiki/SQL"><img aling="center" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" height="50" width="40"></a>
 </p>
