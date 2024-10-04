@@ -3,7 +3,7 @@
 
 <h2 align="center">C#, Java and Python developer from Russia, Started programming on September 30, 2023</h2>
 <h2 align="center">Started programming on September 30, 2023</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=pr-cmc)](https://github.com/pr-cmc/pr-cmc)
+<img src="https://github-profile-trophy.vercel.app/?username=pr-cmc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr-cmc&label=Profile%20views&color=fc7005&style=flat"/> </p>
 
