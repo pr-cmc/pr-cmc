@@ -37,7 +37,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr-cmc&"/>
 </p>
 
-<h3 align="left">Pinned repositories:</h3>
+<h3>My projects:</h3>
 <p>
   <a href="https://github.com/pr-cmc/bots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=bots"></a>
   <a href="https://github.com/pr-cmc/mini-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=mini-projects"></a>
