@@ -6,11 +6,11 @@
 <img src="https://github-profile-trophy.vercel.app/?username=pr-cmc">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr-cmc&label=Profile%20views&color=fc7005&style=flat"/> </p>
 
-- 👨‍💻 All of my projects are available here
-
-- 📫 How to reach me **dmhahaeff@gmail.com**
-
-- 💬 Ask me about C#, Godot, Java, Telebot, Python
+<h3>My projects:</h3>
+<p>
+  <a href="https://github.com/pr-cmc/bots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=bots"></a>
+  <a href="https://github.com/pr-cmc/mini-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=mini-projects"></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,10 +35,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pr-cmc&show_icons=true&locale=en"/>
  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr-cmc&"/>
-</p>
-
-<h3>My projects:</h3>
-<p>
-  <a href="https://github.com/pr-cmc/bots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=bots"></a>
-  <a href="https://github.com/pr-cmc/mini-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=mini-projects"></a>
 </p>
