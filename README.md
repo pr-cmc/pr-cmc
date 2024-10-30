@@ -3,8 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=pr-cmc&label=Profile%20views&color=fc7005&style=flat"/> </p>
 <h3>My projects:</h3>
 <p>
-  <a href="https://github.com/pr-cmc/bots">bots</a>
-  <a href="https://github.com/pr-cmc/mini-projects">mini-projects</a>
+  <a href="https://github.com/pr-cmc/bots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=bots"></a>
+  <a href="https://github.com/pr-cmc/mini-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=mini-projects"></a>
 </p>
 
 <h3>About:</h3>
