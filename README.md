@@ -8,7 +8,7 @@
 </p>
 -->
 <h3>About:</h3>
-<p align="center">C#, Java and Python developer from Russia. Started programming on September 30, 2023</p>
+<p align="left">C#, Java and Python developer from Russia. Started programming on September 30, 2023</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
