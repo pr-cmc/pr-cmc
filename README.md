@@ -30,6 +30,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr-cmc&show_icons=true&locale=en&layout=compact"/></p>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pr-cmc&show_icons=true&locale=en"/>
- 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr-cmc&"/>
-</p>
