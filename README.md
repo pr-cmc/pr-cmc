@@ -30,9 +30,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr-cmc&show_icons=true&locale=en&layout=compact"/></p>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pr-cmc&show_icons=true&locale=en"/>
-<h3 align="left">Other projects:</h3>
+<h3 align="left">My projects:</h3>
 <ul>
-  <li>
-    <a href="https://github.com/lobotomy-corp/SDF-Mini"><p>SDF-Mini</p></a>
-  </li>
+  <li><a href="https://github.com/lobotomy-corp/SDF-Mini"><p>SDF-Mini</p></a></li>
+  <li><a href="https://github.com/pr-cmc/bots"><p>Chat-Bots</p></a></li>
 </ul>
