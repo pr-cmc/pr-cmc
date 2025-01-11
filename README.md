@@ -31,4 +31,8 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pr-cmc&show_icons=true&locale=en"/>
 <h3 align="left">Other projects:</h3>
-<a href="https://github.com/lobotomy-corp/SDF-Mini"><p>SDF-Mini</p></a>
+<ul>
+  <li>
+    <a href="https://github.com/lobotomy-corp/SDF-Mini"><p>SDF-Mini</p></a>
+  </li>
+</ul>
