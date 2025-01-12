@@ -33,5 +33,5 @@
 <h3 align="left">My projects:</h3>
 <ul>
   <li><a href="https://github.com/lobotomy-corp/SDF-Mini"><p>SDF-Mini</p></a></li>
-  <li><a href="https://github.com/pr-cmc/bots"><p>Chat-Bots</p></a></li>
+  <li><a href="https://github.com/pr-cmc/scripts"><p>Scripts</p></a></li>
 </ul>
