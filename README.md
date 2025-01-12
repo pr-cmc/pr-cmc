@@ -1,12 +1,6 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStyS_gWOWV_Cw0wiKswoK9BmzV4tqND8pvSw&s)]()
 <h1 align="center">Hello, I'm PR</h1>
 <img src="https://komarev.com/ghpvc/?username=pr-cmc&label=Profile%20views&color=fc7005&style=flat"/> </p>
-<!--<h3>My projects:</h3>
-<p>
-  <a href="https://github.com/pr-cmc/bots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=bots"></a>
-  <a href="https://github.com/pr-cmc/mini-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-cmc&repo=mini-projects"></a>
-</p>
--->
 <h3>About:</h3>
 <p align="left">C#, Java and Python developer from Russia. Started programming on September 30, 2023</p>
 <h3 align="left">Connect with me:</h3>
