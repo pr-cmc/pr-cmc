@@ -5,3 +5,5 @@
 <a href="https://vk.com/pr_cmc"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=42250&color=4d7198&width=435&lines=vk" alt="Typing SVG" /></a>
 
 <a href="https://discord.com/users/1161671240277311580"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=42250&color=5865F2&width=435&lines=discord" alt="Typing SVG" /></a>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=42250&color=0076FF&width=435&lines=My+projects%3A)
