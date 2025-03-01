@@ -11,3 +11,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=42250&color=0076FF&width=435&lines=My+projects%3A)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=42300&color=FFC23C&width=435&lines=SDF-Mini)](https://github.com/lobotomy-corp/sdf-mini)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=42300&color=FFC23C&width=435&lines=Scripts)](https://github.com/pr-cmc/scripts)
