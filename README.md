@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=42250&color=FFFFFF&width=435&lines=My+links%3A)
 
-<a href="https://t.me/pr_cmc"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=42300&color=27a7e7&width=435&lines=telegram" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=42300&color=27a7e7&width=435&lines=telegram)](https://t.me/pr_cmc)
 
 <a href="https://vk.com/pr_cmc"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=42300&color=4d7198&width=435&lines=vk" alt="Typing SVG" /></a>
 
