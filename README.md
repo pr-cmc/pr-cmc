@@ -8,8 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=42300&color=5865F2&width=435&lines=discord)](https://discord.com/users/1161671240277311580)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=42250&color=0076FF&width=435&lines=My+projects%3A)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=45000&color=0076FF&width=435&lines=My+projects%3A)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=42300&color=FFC23C&width=435&lines=SDF-Mini)](https://github.com/lobotomy-corp/sdf-mini)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=45000&color=FFC23C&width=435&lines=SDF-Mini)](https://github.com/lobotomy-corp/sdf-mini)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=42300&color=FFC23C&width=435&lines=Scripts)](https://github.com/pr-cmc/scripts)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=45000&color=FFC23C&width=435&lines=Scripts)](https://github.com/pr-cmc/scripts)
